@@ -1,7 +1,7 @@
-diff --git a/YSF2P25/CRC.cpp b/YSF2P25/CRC.cpp
+diff --git a/YSF2DMR/CRC.cpp b/YSF2DMR/CRC.cpp
 index e19f429..5fcb556 100644
---- a/YSF2P25/CRC.cpp
-+++ b/YSF2P25/CRC.cpp
+--- a/YSF2DMR/CRC.cpp
++++ b/YSF2DMR/CRC.cpp
 @@ -146,25 +146,23 @@ void CCRC::encodeFiveBit(const bool* in, unsigned int& tcrc)
  	tcrc = total;
  }
