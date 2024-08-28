@@ -287,7 +287,7 @@ msgid "Timeslot"
 msgstr "时隙"
 
 msgid "URL"
-msgstr ""
+msgstr "URL地址"
 
 msgid "Use the format <abbr title=\"the Unit is Hz\">434500000</abbr>, in Hz"
 msgstr "例如434500000，默认单位是赫兹"
